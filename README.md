@@ -42,15 +42,6 @@ Heritrix is an interactive pedigree analysis tool designed to visualize Mendelia
 
 ---
 
-## 🛠️ Built With
-
-- HTML5
-- CSS3
-- JavaScript
-- HTML5 Canvas
-
----
-
 ## 👨‍🔬 Author
 
 **Draven Ashcroft**
