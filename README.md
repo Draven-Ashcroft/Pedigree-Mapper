@@ -29,7 +29,7 @@ Heritrix is an interactive pedigree analysis tool designed to visualize Mendelia
 - Autosomal Recessive
 - X-Linked Dominant
 - X-Linked Recessive
-
+- Custom Cross Mode
 ---
 
 ## 🎓 Built For
